@@ -1,0 +1,24 @@
+Welcome to Akash Restaurant - Order Menu System (Version 1)
+
+This program is an interactive order-taking system designed for a restaurant setup. 
+
+It allows customers to :----------
+
+View the menu with prices.
+Place orders for available items (Maggi, Kulfi, Pizza, Burger).
+Add more items to their order if desired.
+Confirm their final order or cancel it altogether.
+Get the total amount to be paid at the end.
+
+
+How it works :---------------------
+
+The menu is displayed with prices, and customers can input their first order.
+If the order is valid, it gets added to the bill; otherwise, the system prompts the user to re-enter.
+Customers are asked if they’d like to add more items, and the process repeats as needed.
+Finally, they confirm their total bill or cancel their order.
+Note:
+This is Version 1 of the system, so it may have some limitations or areas needing improvement. 
+Future updates will make the system more user-friendly and robust. 
+
+Your feedback is highly appreciated as I work on refining it!
